@@ -4,7 +4,7 @@ In this project, I will create a SIEM visualization that monitors successful RDP
 <br />
 
 <h2>Languages and Utilities Used</h2>
-- <b>VirtualBox</b>
+- <b>VirtualBox</p>
 - <b>Elastic</b>
 <h2>Environments Used </h2>
 - <b>Windows 10</b> 
